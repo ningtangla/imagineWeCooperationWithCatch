@@ -1,0 +1,5 @@
+import numpy as np
+
+aa = [10, 8, -10, 10]
+bb = 6 - np.abs(aa)
+print(bb)
